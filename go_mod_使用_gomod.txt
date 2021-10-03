@@ -3,3 +3,7 @@ go mod init github.com/tsawler/go-course
 go mod tidy
 
 go run cmd/web/main.go
+go build cmd/web/main.go
+
+
+

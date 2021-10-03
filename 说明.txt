@@ -1,4 +1,0 @@
-linux 
-go run *.go
-windows
-go run main.go handlers.go
