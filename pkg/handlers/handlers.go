@@ -3,7 +3,7 @@ package main
 import (
 	"net/http"
 
-	"github.com/tsawler/go-course/pkg/render"
+	"github.com/xiuxi/go-course/pkg/render"
 	// "github.com/xiuxi/go-course/pkg/render"
 )
 

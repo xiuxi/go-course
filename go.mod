@@ -1,3 +1,3 @@
-module github.com/tsawler/go-course
+module github.com/xiuxi/go-course
 
-go 1.13
+go 1.17
