@@ -1,0 +1,5 @@
+go mod init github.com/xiuxi/go-course
+go mod init github.com/tsawler/go-course
+go mod tidy
+
+go run cmd/web/main.go
